@@ -5,10 +5,6 @@
 
 **What to be designed?**
 
-1. URL shortening is used to create shorter aliases for long URLs. Shorter URLs take up less space and can save mistakes through typos in longer URLs.
-2. Play around with shortening of URLs on tinyurl.com to understand the use case of shortened URLs.
-3. URL shortening is used for optimizing links across devices, tracking individual links to analyze audience and campaign performance, and hiding affiliated original URLs.
-
 1. Twitter is a social networking service used to post and read messages of length 140 characters. Users of the service should be able to post tweets, favorite them and follow people. 
 2. Tweets can be posted and read by the registered users, where as anonymous users can only read them.  
 3. Twitter could be accessed through website interface, mobile app or SMS. 
